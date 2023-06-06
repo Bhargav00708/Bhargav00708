@@ -18,7 +18,7 @@ Hey there! 👋 I'm Bhargav Vanra, a Software Magician 🎩✨
 * I work my magic as a Full Stack Developer at ScanPoint Geomatics Limited 🌟🔮
   Based in the enchanting city of Ahmedabad 🏰🌍
 
-* When I'm not conjuring code spells, you can find me exploring new dimensions in my portfolio: [Portfolio](http://bhargav00708.github.io/Portfolio/)
+* When I'm not conjuring code spells, you can find me exploring new dimensions in my portfolio: [Portfolio](https://portfolio-three-gamma-kohl.vercel.app/)
   Or decoding mysterious algorithms on Codin games: [CodinGames](https://www.codingame.com/profile/1a437ffa2ecc36e69d094dd1d0df84172535044) LeetCode: [LeetCode](https://leetcode.com/vanrabhargav/)
   
 * Need to send me a magical message? ✉️📬 Drop it in my enchanted mailbox at [vanrabhargav@gmail.com](mailto:vanrabhargav@gmail.com)
