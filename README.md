@@ -12,15 +12,15 @@ Hey there! 👋 I'm Bhargav Vanra, a Software Developer Extraordinaire 🎩✨
 
 --------------------------------------------------------------------------------------------------------------------------------------
 🔥 Current Highlights
-Speed Platform (Fintech):
 
+<b>Speed Platform (Fintech):</b>
 Developing and optimizing critical send-related services like withdrawal, payout, and OneQR using Node.js, MySQL, RxJS, and AWS.
 Integrated Cybrid, a payment orchestration tool, for seamless fiat-to-crypto and crypto-to-fiat transactions.
 Built a dedicated admin service for real-time insights and operational control.
 Created SpeedNodeJSCommon, a reusable NPM package to standardize utilities across microservices.
 Handling 100,000+ transactions per day using distributed systems and the Saga pattern.
 
-IGiS3D Widgets (Geospatial):
+<b>IGiS3D Widgets (Geospatial):</b>
 Developed interactive 3D widgets using React and Cesium, enabling advanced geospatial analysis and decision-making.
 Built and optimized a RESTful API for smart city portals, facilitating efficient geospatial data visualization.
 
