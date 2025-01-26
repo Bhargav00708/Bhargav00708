@@ -3,11 +3,17 @@ Hey there! 👋 I'm Bhargav Vanra, a Software Developer Extraordinaire 🎩✨
 
 
 👨‍💻 Backend Wizard 
+<br>
 🧩 DSA Enthusiast 
+<br>
 💡 System Design Explorer
+<br>
 🌍 Based in Ahmedabad 🏙️ 
+<br>
 ✨ Building Scalable and Efficient Systems ✨
+<br>
 💻 Turning Problems into Solutions with Code ⚡ 
+<br>
 🔍 Focused on Fintech and Geospatial Technologies 🚀
 
 --------------------------------------------------------------------------------------------------------------------------------------
