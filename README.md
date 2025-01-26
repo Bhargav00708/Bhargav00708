@@ -10,6 +10,7 @@ Hey there! 👋 I'm Bhargav Vanra, a Software Developer Extraordinaire 🎩✨
 💻 Turning Problems into Solutions with Code ⚡ 
 🔍 Focused on Fintech and Geospatial Technologies 🚀
 
+--------------------------------------------------------------------------------------------------------------------------------------
 🔥 Current Highlights
 Speed Platform (Fintech):
 
