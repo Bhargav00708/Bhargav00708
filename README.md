@@ -1,22 +1,29 @@
-Hey there! 👋 I'm Bhargav Vanra, a Software Magician 🎩✨
+Hey there! 👋 I'm Bhargav Vanra, a Software Developer Extraordinaire 🎩✨
 =====================================================================================================================================
 
 
-👨‍💻 Full Stack Sorcerer 🧙‍♂️ | 💡 Converting Coffee ☕ into Code 💻
+👨‍💻 Backend Wizard 
+🧩 DSA Enthusiast 
+💡 System Design Explorer
+🌍 Based in Ahmedabad 🏙️ 
+✨ Building Scalable and Efficient Systems ✨
+💻 Turning Problems into Solutions with Code ⚡ 
+🔍 Focused on Fintech and Geospatial Technologies 🚀
 
-🌍 Based in Ahmedabad 🏙️ | ✨ Crafting Digital Wonders ✨
+🔥 Current Highlights
+Speed Platform (Fintech):
 
-💻 Solving Problems with 0s and 1s 💡 | ⚡️ Master of Algorithms 🧠
+Developing and optimizing critical send-related services like withdrawal, payout, and OneQR using Node.js, MySQL, RxJS, and AWS.
+Integrated Cybrid, a payment orchestration tool, for seamless fiat-to-crypto and crypto-to-fiat transactions.
+Built a dedicated admin service for real-time insights and operational control.
+Created SpeedNodeJSCommon, a reusable NPM package to standardize utilities across microservices.
+Handling 100,000+ transactions per day using distributed systems and the Saga pattern.
+IGiS3D Widgets (Geospatial):
 
-🔍 Exploring the Mysteries of System Design 🚀 | 🧩 Puzzle Solver Extraordinaire 🎯
-
-📚 Full Stack Maestro 🚀 | 🐳 Dockerizing Apps, Spinning Containers, and Kubernating Chaos 🚢
-
+Developed interactive 3D widgets using React and Cesium, enabling advanced geospatial analysis and decision-making.
+Built and optimized a RESTful API for smart city portals, facilitating efficient geospatial data visualization.
 
 --------------------------------------------------------------------------------------------------------------------------------------
-
-* I work my magic as a Full Stack Developer at ScanPoint Geomatics Limited 🌟🔮
-  Based in the enchanting city of Ahmedabad 🏰🌍
 
 * When I'm not conjuring code spells, you can find me exploring new dimensions in my portfolio: [Portfolio](https://portfolio-three-one.vercel.app/)
   Or decoding mysterious algorithms on Codin games: [CodinGames](https://www.codingame.com/profile/1a437ffa2ecc36e69d094dd1d0df84172535044) LeetCode: [LeetCode](https://leetcode.com/vanrabhargav/)
